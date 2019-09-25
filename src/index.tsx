@@ -36,7 +36,7 @@ client.query({
   `,
   variables: {
     "LoginTypeInput": {
-      "portalLoginProviderId": 10
+      "portalId": 13
     }
   },
 })
